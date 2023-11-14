@@ -21,6 +21,7 @@ Following the decision, the final screen indicates the selections the user made:
 
 
 If 2) Build-Your-Own Pizza is selected, the system opens a new panel where the user can select their desired BYO pizza attributes:
+
 <img width="540" alt="Screen Shot 2023-11-13 at 6 03 18 PM" src="https://github.com/treaddevs/Pizza-App-GUI/assets/148214913/34543a16-b486-43f4-ab72-73e7994148f0">
 
 
