@@ -6,7 +6,7 @@ The GUI here serves as the view in the MVC architecture.
 
 Program enters prompting the user to input customer name and click a button to: 
 
-1) Order from Menu 2) Build-Your-Own Pizza:
+1. Order from Menu 2. Build-Your-Own Pizza:
 <img width="847" alt="Screen Shot 2023-11-13 at 6 00 53 PM" src="https://github.com/treaddevs/Pizza-App-GUI/assets/148214913/ac52a4a3-5da3-4941-9eff-39962cd2a2de">
 
 If 1) Order from Menu is selected, the user can select their desired pizza choice and select a size:
