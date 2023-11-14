@@ -33,6 +33,7 @@ Helpful resources for implementing a GUI using Java's swing package:
 
 https://web.mit.edu/6.005/www/sp14/psets/ps4/java-6-tutorial/components.html
 
-Though I did not implement this feature, I found the concept useful for developing a CheckBoxList component in swing:
+Though I did not implement this, I found the concept useful for developing a CheckBoxList component in swing:
+
 https://stackoverflow.com/questions/17097704/checkboxlist-in-java
 http://www.java2s.com/Tutorials/Java/Swing_How_to/JList/Create_JList_of_CheckBox.htm
