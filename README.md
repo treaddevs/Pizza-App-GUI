@@ -2,6 +2,7 @@
 Pizza App (GUI view using Java Swing) is based on a real local pizza franchise Brickyard Hollow, located in Portland, ME
 
 This project was adapted from its original command line view. 
+
 The GUI here serves as the view in the MVC architecture.
 
 Program enters prompting the user to input customer name and click a button to: 
