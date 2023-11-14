@@ -30,6 +30,7 @@ Likewise, following the decision, the final screen indicates the selections the 
 
 
 Helpful resources for implementing a GUI using Java's swing package:
+
 https://web.mit.edu/6.005/www/sp14/psets/ps4/java-6-tutorial/components.html
 
 Though I did not implement this feature, I found the concept useful for developing a CheckBoxList component in swing:
